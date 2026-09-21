@@ -14,7 +14,7 @@ A unified repository containing React applications covering fundamental to advan
 | **04** | **Weather Dashboard** | Asynchronous API fetching (`useEffect`), loading spinners, error states | [Live Link](https://react-assignment-7u8w.vercel.app/) |
 | **05** | **E-Commerce Cart** | Complex state, subtotal/tax calculations, quantity manipulation | [Live Link](https://react-assignment-pt97.vercel.app/) |
 | **06** | **Task Management Suite** | Client-side routing (`react-router-dom`), route parameters, filter bars | [Live Link](https://react-assignment-qwm6.vercel.app/) |
-| **07** | **Auth & Protected Routing** | JWT simulation, route authorization guards, password strength meter | [Live Link](https://react-assignment-9ugp.vercel.app/) |
+| **07** | **Auth & Protected Routing** | JWT simulation, route authorization guards, password strength meter | [Live Link](https://react-assignment-9ugp.vercel.app/) | 
 
 ---
 
