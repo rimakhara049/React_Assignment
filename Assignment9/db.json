@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Getting Started with React Hooks & Modular Architecture",
+      "author": "Souvik Das",
+      "date": "2026-11-18",
+      "imageUrl": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&auto=format&fit=crop",
+      "videoUrl": "",
+      "content": "React Hooks revolutionized functional components by enabling state and lifecycle management without writing class components. By organizing applications into modular folders—separating contexts, reusable UI components, and page views—developers keep codebases scalable, maintainable, and easy to debug."
+    },
+    {
+      "id": "2",
+      "title": "Understanding REST APIs and CRUD Operations with Axios",
+      "author": "Rima Khara",
+      "date": "2026-11-19",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop",
+      "videoUrl": "",
+      "content": "CRUD stands for Create, Read, Update, and Delete—the four foundational operations of persistent storage. Using Axios alongside JSON Server allows front-end engineers to simulate real asynchronous REST endpoints locally using standard HTTP verbs: POST, GET, PUT, and DELETE."
+    }
+  ]
+}
